@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/51CTO下载-mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="src/jl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/basicplayer2.3.jar"/>
+	<classpathentry kind="lib" path="src/mp3spi1.9.1.jar"/>
+	<classpathentry kind="lib" path="src/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="src/jl0.4.jar"/>
+	<classpathentry kind="lib" path="src/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="lib" path="src/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="src/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="src/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="src/vlcj-3.10.1.jar" sourcepath="D:/repository/uk/co/caprica/vlcj/3.1.0/vlcj-3.1.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
